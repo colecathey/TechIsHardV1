@@ -1,0 +1,15 @@
+TECHISHARD COLOR SCHEME
+
+R	G	B	HEX
+---------------------------
+18	19	178	1213B2
+255	103	25	FF6719
+0	1	255	0001FF
+64	204	20	40CC14
+49	178	9	31B209
+
+
+http://imgur.com/ixDhu7y
+
+Made with Adobe color wheel:
+https://color.adobe.com/create/color-wheel
